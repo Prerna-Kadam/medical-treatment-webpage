@@ -1,4 +1,3 @@
--- Ideamagix Review Test Assignment
 -- Database dump included as requested in the submission guidelines.
 -- The webpage itself is static and does not require a database connection.
 
